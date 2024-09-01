@@ -25,7 +25,7 @@ dependencies:
 
 Import the plugin in your Dart file:
 
-import 'package:your_plugin/your_plugin.dart';
+import 'package:dev_api_service_plugin/dev_api_service_plugin.dart';
 
 ## Authentication
 
